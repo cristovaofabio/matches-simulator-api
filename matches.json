@@ -4,12 +4,12 @@
     "local":{
       "nome":"Maracana",
       "imagem":"TODO"
-    }
+    },
     "mandante":{
       "nome":"Brasil",
       "forca":5,
       "imagem":"https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png"
-    }
+    },
     "visitante":{
         "nome":"Chile",
         "forca":4,
