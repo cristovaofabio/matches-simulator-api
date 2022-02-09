@@ -15,5 +15,39 @@
         "forca":4,
         "imagem":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1200px-Flag_of_Chile.svg.png"
      }
+  },
+  {
+    "descricao":"Amistoso internacional",
+    "local":{
+      "nome":"Wembley Stadium",
+      "imagem":"TODO"
+    },
+    "mandante":{
+      "nome":"Inglaterra",
+      "forca":4,
+      "imagem":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+    },
+    "visitante":{
+        "nome":"Brasil",
+        "forca":5,
+        "imagem":"https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png"
+     }
+  },
+  {
+    "descricao":"Eliminatorias para a Copa 2022",
+    "local":{
+      "nome":"Arena Amazonas",
+      "imagem":"TODO"
+    },
+    "mandante":{
+      "nome":"Brasil",
+      "forca":5,
+      "imagem":"https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png"
+    },
+    "visitante":{
+        "nome":"Colombia",
+        "forca":4,
+        "imagem":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/2560px-Flag_of_Colombia.svg.png"
+     }
   }
 ]
