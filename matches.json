@@ -8,12 +8,12 @@
     "mandante":{
       "nome":"Brasil",
       "forca":5,
-      "imagem":"TODO"
+      "imagem":"https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png"
     }
     "visitante":{
         "nome":"Chile",
         "forca":4,
-        "imagem":"TODO"
+        "imagem":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1200px-Flag_of_Chile.svg.png"
      }
   }
 ]
