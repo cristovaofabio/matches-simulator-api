@@ -3,7 +3,7 @@
     "descricao":"Eliminatorias para a Copa 2022",
     "local":{
       "nome":"Maracana",
-      "imagem":"TODO"
+      "imagem":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Maracana_stadium%2C_brazil_-_panoramio.jpg/1200px-Maracana_stadium%2C_brazil_-_panoramio.jpg"
     },
     "mandante":{
       "nome":"Brasil",
@@ -20,7 +20,7 @@
     "descricao":"Amistoso internacional",
     "local":{
       "nome":"Wembley Stadium",
-      "imagem":"TODO"
+      "imagem":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Wembley_Stadium_interior.jpg/1200px-Wembley_Stadium_interior.jpg"
     },
     "mandante":{
       "nome":"Inglaterra",
@@ -37,7 +37,7 @@
     "descricao":"Eliminatorias para a Copa 2022",
     "local":{
       "nome":"Arena Amazonas",
-      "imagem":"TODO"
+      "imagem":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Manaus_aerea_arenaamazonia.jpg"
     },
     "mandante":{
       "nome":"Brasil",
